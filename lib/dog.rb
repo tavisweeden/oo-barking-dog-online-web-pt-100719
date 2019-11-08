@@ -10,7 +10,7 @@ class Dog
   end
 
 def bark
-  if @dogs_name_is
+  if 
     puts "woof!"
     
   end
