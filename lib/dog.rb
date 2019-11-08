@@ -8,8 +8,12 @@ class Dog
   def name 
     @dogs_name_is 
   end
-end
 
 def bark
   if @dogs_name_is
-    puts 
+    puts "woof!"
+    
+  end
+end
+end
+    
