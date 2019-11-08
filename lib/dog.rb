@@ -1,3 +1,4 @@
+require 'pry'
 class Dog 
   
   def name=(dogs_name)
@@ -8,7 +9,7 @@ class Dog
   def name 
     @dogs_name_is 
   end
-
+binding.pry
 def bark
   if 
     puts "woof!"
